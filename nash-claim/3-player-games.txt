@@ -1,0 +1,3 @@
+http://cseweb.ucsd.edu/~akmenon/NashEquilibriaPresentation.pdf
+http://www.eecs.berkeley.edu/~christos/papers/3players.pdf
+
