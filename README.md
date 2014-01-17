@@ -37,5 +37,5 @@ I no longer use Social Media that insist on real names and encourage you to spre
 Throw a bank account with money into the fray, and half of the members of the community will sooner or later end up
 with their dead bodies concealed in concrete somewhere in a nearby construction site.
 
-Money will inevitably become a more prominent part of the social interactions in Social Media. At some point,
-these Social Media will silently morph into fully-fledged assassination games.
+Money will inevitably become a more prominent part of the social interactions in Social Media. At some point
+along the way, these Social Media will silently start morphing into fully-fledged assassination games.
