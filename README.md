@@ -15,10 +15,10 @@ When on top of being almost useless, someone tried to impersonate me, I closed t
 
 https://github.com/eriksank/math-php/blob/master/impersonator.png
 
-I think that Facebook and Google+ are even dangerous.
+I think that Facebook, Google+, and LinkedIn are even dangerous.
 
 If anything of financial value ever starts going on there -- as opposed to just aimless babbling -- you will soon
-no longer be talking to the person that you think you are talking with at Google+ or Facebook,
+no longer be talking to the person that you think you are talking with at Google+, Facebook, or LinkedIn,
 but more likely to his murderer, who has successfully taken his place, and is now controlling
 his social media accounts.
 
@@ -36,3 +36,6 @@ convenient that you disappear.
 I no longer use Social Media that insist on real names and encourage you to spread around pictures of yourself.
 Throw a bank account with money into the fray, and half of the members of the community will sooner or later end up
 with their dead bodies concealed in concrete somewhere in a nearby construction site.
+
+Money will inevitably become a more prominent part of the social interactions in Social Media. At some point,
+these social media will silently morph into fully-fledged assassination games.
